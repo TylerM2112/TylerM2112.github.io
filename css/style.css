@@ -445,6 +445,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 50px;
 }
 
+.web{
+	margin-left: 160px;
+}
+
 @media (max-width: 1024px) {
 #about img {
 	float: left;
